@@ -1,5 +1,6 @@
 # SmartthingsPeriodicTimer
 This solution provides timer functionality that can trigger routines in SmartThings. Currently there is not a permanent /periodic timer functionality
+There is no code on this since SmartThings side leverages their UX to create rules. SharpTools export codes as photos.
 
 SmartThings allows the user to trigger routines for different reasons. A certain time of day for example. There is no trigger for "Do X every 10 minutes". This solves that
 The steps:
